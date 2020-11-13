@@ -1,0 +1,19 @@
+{
+  "name": "cryptochain-alpha",
+  "version": "1.0.0",
+  "description": "node.js-based blockchain fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-weitzel/cryptochain-alpha.git"
+  },
+  "author": "tom-weitzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tom-weitzel/cryptochain-alpha/issues"
+  },
+  "homepage": "https://github.com/tom-weitzel/cryptochain-alpha#readme"
+}
